@@ -1,0 +1,12 @@
+[
+  {
+	"type": "scenario",
+	"id": "mansion",
+	"name": "Mansion",
+	"points": -2,
+	"description": "Mansions are too rare and you decided you should start in one. Have fun",
+	"allowed_locs": [ "sloc_mansion" ],
+	"start_name": "Mansion",
+	"flags": [ "LONE_START" ]
+  }
+]

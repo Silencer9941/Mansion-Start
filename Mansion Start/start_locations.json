@@ -1,0 +1,8 @@
+[
+  {
+	"type": "start_location",
+	"id": "sloc_mansion",
+	"name": "Mansion",
+	"terrain": [ "mansion_wild" , "mansion_entry" , "mansion_e1" , "mansion_e2" ]
+  }
+]
