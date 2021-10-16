@@ -7,6 +7,5 @@
     "description": "Adds a new starting location to the ever-so-rare discovery, the Mansion.",
     "category": "misc_additions",
     "dependencies": [ "dda" ]
-	"version": "1.0"
   }
 ]
